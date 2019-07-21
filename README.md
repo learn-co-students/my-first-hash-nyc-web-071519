@@ -56,10 +56,10 @@ hash["key1"]
 
 In the `adding` method, we've once again given you the `shipping_manifest` hash. Use the `[]=` method to add the following data to the hash:
 
-Inventory | Quantity
+Inventory    | Quantity
 ------------ | -------------
-muskets | 2
-gun powder | 4
+muskets      | 2
+gun powder   | 4
 
 In the end your hash should have all of the following keys and values:
 
